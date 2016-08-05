@@ -1,0 +1,34 @@
+_repo: Samantha-Among-the-Brethren-Complete_9450
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 9450/9450-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Holley, Marietta
+    alias: Josiah Allen's wife
+    birthdate: 1836
+    deathdate: 1926
+    gutenberg_agent_id: '1194'
+    url: http://www.gutenberg.org/2009/agents/1194
+    wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women in church work -- Methodist church -- Humor'
+- !lcsh 'Women''s rights -- Humor'
+- !lcc 'PS'
+- !lcsh 'Methodism -- Humor'
+- GITenberg
+title: Samantha Among the Brethren, Complete
+url: http://www.gutenberg.org/ebooks/9450
